@@ -1,3 +1,3 @@
 # pka
 
-pka stuff
+pKa prediction using Gradient Boosting
