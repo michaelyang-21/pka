@@ -1,3 +1,3 @@
 # pka
 
-pKa prediction using Gradient Boosting
+pKa and/or solubility prediction using LightGBM and molecule descriptors
